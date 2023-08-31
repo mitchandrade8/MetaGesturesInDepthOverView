@@ -10,9 +10,14 @@ import SwiftUI
 struct LTGInDepthExample: View {
     var body: some View {
         Text("Little Lemon Restaurant")
-            .onLongPressGesture {
+            .font(.largeTitle)
+            .bold()
+            .onLongPressGesture(minimumDuration: 4, maximumDistance: 15, perform: {
                 print("Text Tapped!")
-            }
+            },
+            onPressingChanged: { state in
+                print(state)
+            })
     }
 }
 
