@@ -12,6 +12,7 @@ struct DGInDepthExample: View {
     
     var body: some View {
         Image(systemName: "person.fill")
+            .font(.largeTitle)
             .offset(offsetValue)
             .gesture(
                 DragGesture()
