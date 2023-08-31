@@ -16,6 +16,7 @@
 		748868192AA02C1200F45F77 /* DGInDepthExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748868182AA02C1200F45F77 /* DGInDepthExample.swift */; };
 		7488681B2AA0FB9B00F45F77 /* RGInDepthExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488681A2AA0FB9B00F45F77 /* RGInDepthExample.swift */; };
 		7488681D2AA0FF7F00F45F77 /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488681C2AA0FF7F00F45F77 /* MagnificationGesture.swift */; };
+		7488681F2AA100BC00F45F77 /* SequencedInDepthExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488681E2AA100BC00F45F77 /* SequencedInDepthExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		748868182AA02C1200F45F77 /* DGInDepthExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DGInDepthExample.swift; sourceTree = "<group>"; };
 		7488681A2AA0FB9B00F45F77 /* RGInDepthExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGInDepthExample.swift; sourceTree = "<group>"; };
 		7488681C2AA0FF7F00F45F77 /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
+		7488681E2AA100BC00F45F77 /* SequencedInDepthExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SequencedInDepthExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				748868182AA02C1200F45F77 /* DGInDepthExample.swift */,
 				7488681A2AA0FB9B00F45F77 /* RGInDepthExample.swift */,
 				7488681C2AA0FF7F00F45F77 /* MagnificationGesture.swift */,
+				7488681E2AA100BC00F45F77 /* SequencedInDepthExample.swift */,
 				7488680A2AA0062900F45F77 /* Assets.xcassets */,
 				7488680C2AA0062900F45F77 /* Preview Content */,
 			);
@@ -157,6 +160,7 @@
 				7488681B2AA0FB9B00F45F77 /* RGInDepthExample.swift in Sources */,
 				748868192AA02C1200F45F77 /* DGInDepthExample.swift in Sources */,
 				748868072AA0062800F45F77 /* MetaGesturesInDepthOverViewApp.swift in Sources */,
+				7488681F2AA100BC00F45F77 /* SequencedInDepthExample.swift in Sources */,
 				748868152AA0069F00F45F77 /* OTGInDepthExample.swift in Sources */,
 				7488681D2AA0FF7F00F45F77 /* MagnificationGesture.swift in Sources */,
 			);
